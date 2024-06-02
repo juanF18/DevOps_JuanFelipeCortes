@@ -1,0 +1,16 @@
+{
+  "name": "devops_juanfelipe",
+  "version": "1.0.0",
+  "description": "Proyecto básico para probar Github actions con node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'Building the project...' && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
